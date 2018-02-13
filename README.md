@@ -19,6 +19,12 @@ Currently just a basic list of potential sources to track openaddresses style
 | -------- | ------ |
 | Statewide | `https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Facility_and_Structure/MapServer/1` |
 
+### New York
+
+| Coverage | Source |
+| -------- | ------ |
+| The City of New York | `https://data.cityofnewyork.us/api/geospatial/nqwf-w8eh?method=export&format=Original` |
+
 ### Maryland
 
 | Coverage | Source |

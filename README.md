@@ -30,7 +30,7 @@ Currently just a basic list of potential sources to track openaddresses style
 | Calvert County | `http://calvertgis.co.cal.md.us/arcgis/rest/services/Basemaps/Streets_Base_Map/MapServer/10` |
 | Caroline County | `` |
 | Carroll County | `https://services.arcgis.com/Uf0DiYpD9NOFO5YH/ArcGIS/rest/services/Buildings_CarrollCounty/FeatureServer/0` |
-| Cecil County | `http://cecilmaps.ccgov.org/arcgis/rest/services/Public_10_1/MapServer/5` |
+| Cecil County | `http://cecilmaps.ccgov.org/arcgis/rest/services/Public_10_1/MapServer/5`, `http://cecilmaps.ccgov.org/arcgis/rest/services/Public_10_1/MapServer/6` |
 | Charles County | `` |
 | Dorchester County | `` |
 | Frederick County | `` |

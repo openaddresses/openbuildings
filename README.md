@@ -54,6 +54,12 @@ Currently just a basic list of potential sources to track openaddresses style
 | Wicomico County | `` |
 | Worcester County | `` |
 
+### Washington
+
+| Coverage | Source |
+| -------- | ------ |
+| City of Seattle | `https://data.seattle.gov/download/y7u8-vad7/application%2Fzip` |
+
 ### Virginia
 
 ### California

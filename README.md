@@ -72,9 +72,3 @@ Currently just a basic list of potential sources to track openaddresses style
 | Coverage | Source |
 | -------- | ------ |
 | Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |
-
-### California
-
-| Coverage | Source |
-| -------- | ------ |
-| Los Angeles County | `http://egis3.lacounty.gov/dataportal/wp-content/uploads/ShapefilePackages/LARIAC4Buildings.zip` |

@@ -49,4 +49,6 @@ Currently just a basic list of potential sources to track openaddresses style
 | Worcester County | `` |
 
 ### Virginia
-
+| Coverage | Source |
+| -------- | ------ |
+| Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |

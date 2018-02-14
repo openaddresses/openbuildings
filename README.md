@@ -50,3 +50,8 @@ Currently just a basic list of potential sources to track openaddresses style
 
 ### Virginia
 
+### California
+
+| Coverage | Source |
+| -------- | ------ |
+| Los Angeles County | `http://egis3.lacounty.gov/dataportal/wp-content/uploads/ShapefilePackages/LARIAC4Buildings.zip` |

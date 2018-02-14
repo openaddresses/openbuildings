@@ -13,11 +13,25 @@ Currently just a basic list of potential sources to track openaddresses style
 
 ## Sources
 
+### California
+
+| Coverage | Source | Number | Date |
+| -------- | ------ | ------ | ---- |
+| San Francisco | `https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege/data` | 2017 | 177,023 |
+| Los Angeles County | `https://egis3.lacounty.gov/dataportal/tag/buildings/` | 2014 | > 300,000 |
+| City of Los Angeles | `http://geohub.lacity.org/datasets/813fcefde1f64b209103107b26a8909f_0` | 1109238 | 2014 |
+
 ### Washington, DC
 
 | Coverage | Source |
 | -------- | ------ |
 | Statewide | `https://maps2.dcgis.dc.gov/dcgis/rest/services/DCGIS_DATA/Facility_and_Structure/MapServer/1` |
+
+### New York
+
+| Coverage | Source |
+| -------- | ------ |
+| The City of New York | `https://data.cityofnewyork.us/api/geospatial/nqwf-w8eh?method=export&format=Original` |
 
 ### Maryland
 
@@ -48,7 +62,19 @@ Currently just a basic list of potential sources to track openaddresses style
 | Wicomico County | `` |
 | Worcester County | `` |
 
+### Washington
+
+| Coverage | Source |
+| -------- | ------ |
+| City of Seattle | `https://data.seattle.gov/download/y7u8-vad7/application%2Fzip` |
+
 ### Virginia
 | Coverage | Source |
 | -------- | ------ |
 | Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |
+
+### California
+
+| Coverage | Source |
+| -------- | ------ |
+| Los Angeles County | `http://egis3.lacounty.gov/dataportal/wp-content/uploads/ShapefilePackages/LARIAC4Buildings.zip` |

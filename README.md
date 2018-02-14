@@ -69,6 +69,9 @@ Currently just a basic list of potential sources to track openaddresses style
 | City of Seattle | `https://data.seattle.gov/download/y7u8-vad7/application%2Fzip` |
 
 ### Virginia
+| Coverage | Source |
+| -------- | ------ |
+| Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |
 
 ### California
 

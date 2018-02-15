@@ -17,8 +17,8 @@ Currently just a basic list of potential sources to track openaddresses style
 
 | Coverage | Source | Number | Date |
 | -------- | ------ | ------ | ---- |
-| San Francisco | `https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege/data` | 2017 | 177,023 |
-| Los Angeles County | `https://egis3.lacounty.gov/dataportal/tag/buildings/` | 2014 | > 300,000 |
+| San Francisco | `https://data.sfgov.org/Housing-and-Buildings/Building-Footprints/72ai-zege/data` | 177,023 | 2017 |
+| Los Angeles County | `https://egis3.lacounty.gov/dataportal/2016/11/03/countywide-building-outlines-2014-update-public-domain-release/` | 3,000,000+ |  2014 |
 | City of Los Angeles | `http://geohub.lacity.org/datasets/813fcefde1f64b209103107b26a8909f_0` | 1109238 | 2014 |
 
 ### Washington, DC

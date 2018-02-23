@@ -73,3 +73,8 @@ Currently just a basic list of potential sources to track openaddresses style
 | Coverage | Source |
 | -------- | ------ |
 | Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |
+
+### British Columbia
+| Coverage | Source |
+| -------- | ------ |
+| City of Victoria | http://vicmap.victoria.ca/arcgis/rest/services/OpenData/OpenData_Land/MapServer/1 | 

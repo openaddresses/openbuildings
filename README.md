@@ -78,3 +78,8 @@ Currently just a basic list of potential sources to track openaddresses style
 | Coverage | Source |
 | -------- | ------ |
 | City of Charleston | http://gis.charleston-sc.gov/arcgis/rest/services/External/OData_Central/MapServer/2 | 
+
+### British Columbia
+| Coverage | Source |
+| -------- | ------ |
+| City of Victoria | http://vicmap.victoria.ca/arcgis/rest/services/OpenData/OpenData_Land/MapServer/1 | 

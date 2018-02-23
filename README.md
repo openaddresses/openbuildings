@@ -73,3 +73,8 @@ Currently just a basic list of potential sources to track openaddresses style
 | Coverage | Source |
 | -------- | ------ |
 | Statewide | `http://gismaps.vita.virginia.gov/arcgis/rest/services/VA_Base_layers/VA_Building_Footprints/MapServer/0` |
+
+### South Carolina
+| Coverage | Source |
+| -------- | ------ |
+| City of Charleston | http://gis.charleston-sc.gov/arcgis/rest/services/External/OData_Central/MapServer/2 | 

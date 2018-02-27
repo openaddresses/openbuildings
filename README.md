@@ -56,7 +56,7 @@ Currently just a basic list of potential sources to track openaddresses style
 | Montgomery County | `https://gis3.montgomerycountymd.gov/arcgis/rest/services/GDX/buildings/MapServer/0` |
 | Prince George's County | `http://gisdata.pgplanning.org/opendata/downloadzip.asp?FileName=/data/ShapeFile/Building_2014_Py.zip` |
 | Queen Anne's County | `https://gis.qac.org/arcgis/rest/services/QAC_PUBLIC/DataDownload/MapServer/1` |
-| Saint Mary's County | `` |
+| Saint Mary's County | `http://gtg.smcg.co.saint-marys.md.us/arcgis/rest/services/Mobile/MobileBaseMap/MapServer/0` |
 | Somerset County | `` |
 | Talbot County | `` |
 | Washington County | `` |

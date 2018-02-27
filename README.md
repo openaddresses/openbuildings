@@ -48,7 +48,7 @@ Currently just a basic list of potential sources to track openaddresses style
 | Cecil County | `http://cecilmaps.ccgov.org/arcgis/rest/services/Public_10_1/MapServer/5`, `http://cecilmaps.ccgov.org/arcgis/rest/services/Public_10_1/MapServer/6` |
 | Charles County | `` |
 | Dorchester County | `` |
-| Frederick County | `` |
+| Frederick County | `http://webmaps.frederickcountymd.gov/GISPublicDownload/Shapefiles/Buildings.zip` |
 | Garrett County | `` |
 | Harford County | `` |
 | Howard County | `` |

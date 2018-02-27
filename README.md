@@ -53,9 +53,9 @@ Currently just a basic list of potential sources to track openaddresses style
 | Harford County | `https://harfordcountygov-my.sharepoint.com/personal/gisftp_harfordcountymd_gov/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fgisftp%5Fharfordcountymd%5Fgov%2FDocuments%2FGIS%20Files%2FBuildings%5F2013%2Ezip` |
 | Howard County | `https://data.howardcountymd.gov/DataDownload/ESRI/Buildings_Major.zip` |
 | Kent County | `` |
-| Montgomery County | `` |
-| Prince George's County | `` |
-| Queen Anne's County | `` |
+| Montgomery County | `https://gis3.montgomerycountymd.gov/arcgis/rest/services/GDX/buildings/MapServer/0` |
+| Prince George's County | `http://gisdata.pgplanning.org/opendata/downloadzip.asp?FileName=/data/ShapeFile/Building_2014_Py.zip` |
+| Queen Anne's County | `https://gis.qac.org/arcgis/rest/services/QAC_PUBLIC/DataDownload/MapServer/1` |
 | Saint Mary's County | `` |
 | Somerset County | `` |
 | Talbot County | `` |

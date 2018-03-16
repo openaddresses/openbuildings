@@ -79,6 +79,10 @@ Currently just a basic list of potential sources to track openaddresses style
 | -------- | ------ |
 | City of Charleston | http://gis.charleston-sc.gov/arcgis/rest/services/External/OData_Central/MapServer/2 | 
 
+### Wisconsin
+| Coverage | Source |
+| Calumet County | ftp://liouser:l!oguest1@ftp.co.calumet.wi.us/websitedata/CalumetAddressPts.zip (contains a 'BuildingFootprint' layer) | 
+
 ### British Columbia
 | Coverage | Source |
 | -------- | ------ |

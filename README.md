@@ -77,13 +77,14 @@ Currently just a basic list of potential sources to track openaddresses style
 ### South Carolina
 | Coverage | Source |
 | -------- | ------ |
-| City of Charleston | http://gis.charleston-sc.gov/arcgis/rest/services/External/OData_Central/MapServer/2 | 
+| City of Charleston | `http://gis.charleston-sc.gov/arcgis/rest/services/External/OData_Central/MapServer/2` | 
 
 ### Wisconsin
 | Coverage | Source |
-| Calumet County | ftp://liouser:l!oguest1@ftp.co.calumet.wi.us/websitedata/CalumetAddressPts.zip (contains a 'BuildingFootprint' layer) | 
+| -------- | ------ |
+| Calumet County | `ftp://liouser:l!oguest1@ftp.co.calumet.wi.us/websitedata/CalumetAddressPts.zip` (contains a 'BuildingFootprint' layer) | 
 
 ### British Columbia
 | Coverage | Source |
 | -------- | ------ |
-| City of Victoria | http://vicmap.victoria.ca/arcgis/rest/services/OpenData/OpenData_Land/MapServer/1 | 
+| City of Victoria | `http://vicmap.victoria.ca/arcgis/rest/services/OpenData/OpenData_Land/MapServer/1` | 

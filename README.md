@@ -63,6 +63,11 @@ Currently just a basic list of potential sources to track openaddresses style
 | Wicomico County | `` |
 | Worcester County | `` |
 
+### New Jersey
+| Coverage | Source |
+| -------- | ------ |
+| Monmount County | http://maps.co.monmouth.nj.us/maps/rest/services/PublicData/Buildings/MapServer/0 |
+
 ### Washington
 
 | Coverage | Source |

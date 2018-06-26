@@ -58,7 +58,7 @@ Currently just a basic list of potential sources to track openaddresses style
 | Queen Anne's County | `https://gis.qac.org/arcgis/rest/services/QAC_PUBLIC/DataDownload/MapServer/1` |
 | Saint Mary's County | `http://gtg.smcg.co.saint-marys.md.us/arcgis/rest/services/Mobile/MobileBaseMap/MapServer/0` |
 | Somerset County | `` |
-| Talbot County | `` |
+| Talbot County | Buildings: `http://maps.talbgov.org/arcgis/rest/services/TalbotWebMaps/TalbotFloodRisk/MapServer/34` Outbuildings: `http://maps.talbgov.org/arcgis/rest/services/TalbotWebMaps/TalbotFloodRisk/MapServer/35` |
 | Washington County | `` |
 | Wicomico County | `` |
 | Worcester County | `` |

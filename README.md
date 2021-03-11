@@ -6,10 +6,7 @@
 
 ## Brief
 
-A global collection of building polygon data, open and free to use.
-
-Currently just a basic list of potential sources to track openaddresses style
-
+**This repository is deprecated as the [primary OpenAddresses repository](https://github.com/openaddresses/openaddresses) supports tracking building polygons natively now.**
 
 ## Sources
 
